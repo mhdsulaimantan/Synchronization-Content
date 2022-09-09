@@ -1,4 +1,4 @@
-# Synchronization-content
+# Synchronization-Content
 ## Overview:
 This is a simple synchronization program between two folders (source and replica). The project was built using python==3.10.5. it contains four main features:
   - **Source:** The folder where data will be monitored and synced from.
